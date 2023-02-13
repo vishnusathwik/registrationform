@@ -10,6 +10,7 @@ if (mm < 10) {
 }
 maxDate = yyyy - 18 + '-' + mm + '-' + dd;
 minDate = yyyy - 55 + '-' + mm + '-' + dd;
+hhhhhhhhhhhhhhhhhhhhhhhhhh
 document.getElementById("dob").setAttribute("min", minDate);
 document.getElementById("dob").setAttribute("max", maxDate);
 
